@@ -1,0 +1,44 @@
+html,
+body {
+    min-height: 100%;
+}
+
+body,
+div,
+form,
+input,
+p {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-size: 14px;
+    color: rgb(124, 121, 121);
+    line-height: 22px;
+}
+
+.container{
+    background-color: rgb(37, 34, 34);
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+.content{
+    padding: 10px 20px;
+}
+
+.name{
+    color: rgb(10, 59, 219);
+}
+
+.code{
+    margin: auto;
+    background-color: rgb(214, 155, 155);
+    height: 30px;
+    width: 300px;
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 10px;
+    text-align: center;
+    color: aliceblue;
+}
